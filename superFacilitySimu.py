@@ -5,7 +5,6 @@ from computingSite import computingSite
 from expTask import expTask
 from simuPara import simuConfig as cfg
 from log import debugPrint
-import pandas as pd
 from globalScheduler import globalScheduler
 import ns.core 
 import shelve

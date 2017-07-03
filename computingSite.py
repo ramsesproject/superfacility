@@ -1,7 +1,6 @@
 from log import debugPrint
 from simuPara import simuConfig as cfg
 import numpy as np
-import pandas as pd
 import ns.core 
 
 '''

@@ -1,0 +1,6 @@
+*.pyc
+.vscode
+*.csv
+*.swp
+*.npy
+sync.sh

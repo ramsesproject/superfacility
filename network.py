@@ -1,6 +1,4 @@
 from log import debugPrint
-from collections import defaultdict
-from heapq import *
 import numpy as np
 from simuPara import simuConfig as cfg
 import os.path

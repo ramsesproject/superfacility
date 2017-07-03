@@ -4,7 +4,7 @@ class simuConfig:
     rndSeed = 2017
     trsMaxCCTask = 2
     realSchedule = True
-    simTime  = 3600 * 24 * 365                   # total simulation time in second
+    simTime  = 3600 * 24 * 3                   # total simulation time in second
     warmTime = 3600 * 2                          # warmup time
     gracePeriod = 3600 * 24                      # a period to process tail jobs
     minBW = 125.                                 # the minimum bandwidth to consider, i.e., job will not consider to 
