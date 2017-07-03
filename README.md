@@ -1,4 +1,4 @@
-# superfacility
+# Introduction
 
 A simulator of super facility for evaluating design choice, decision supporting and unforeseen scenario evaluation. 
 
