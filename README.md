@@ -10,6 +10,10 @@ A simulator of super facility for evaluating design choice, decision supporting 
 
 ## Module description 
 
-| File        | Module           | Description  |
-| ------------- |:-------------:| -----:|
-superFacilitySimu.py
+| File               | Module           | Description  |
+|:-------------------|:-------------|:-----|
+|superFacilitySimu.py| main          | the main entrance |
+|expTask.py |expTask| experiment task data structure|
+|expInstrument.py | expInstrument |the experiment instrument (data acquisition equipment) model|
+|experimentSite.py | experimentSite | experiment facility model |
+| globalScheduler.py | globalScheduler | the global job scheduler|
