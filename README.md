@@ -7,3 +7,7 @@ A simulator of super facility for evaluating design choice, decision supporting 
 ## Requiremnt 
 
 * Python 2.7 with numpy and ns3
+
+## The main entrance file
+
+superFacilitySimu.py
