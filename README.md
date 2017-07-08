@@ -6,7 +6,7 @@ A simulator of super facility for evaluating design choice, decision supporting 
 
 ## Requiremnt 
 
-* Python 2.7 with numpy and ns3
+* Python 2.7 with numpy and ns3 (https://www.nsnam.org, need to download the code and compile, then install its python binding)
 
 ## Module description 
 
